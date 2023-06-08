@@ -1,0 +1,28 @@
+a{
+  font-family: Arial;
+  font color: black;
+}
+
+h1{
+  font-size: 30px;
+  position: center;
+}
+
+h2{
+  font-size: 24px;
+}
+
+h3{
+  font-size: 18px;
+  font-style: bold;
+}
+
+.center{
+  text-align: center;
+}
+
+.maindiv{
+  position: absolute;
+  left: 5%;
+  right: 5%;
+}
